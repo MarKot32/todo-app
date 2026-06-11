@@ -12,7 +12,7 @@ Komunikat gdy lista jest pusta
 
 Technologie:
 
-Java 17
+Java 17 <br>
 Jakarta Servlet API 6.0
 JSP + JSTL 3.0
 Apache Tomcat 10

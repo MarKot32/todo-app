@@ -13,26 +13,26 @@ Komunikat gdy lista jest pusta
 Technologie:
 
 Java 17 <br>
-Jakarta Servlet API 6.0
-JSP + JSTL 3.0
-Apache Tomcat 10
+Jakarta Servlet API 6.0<br>
+JSP + JSTL 3.0<br>
+Apache Tomcat 10<br>
 Maven
 
 
 Wymagania:
 
-Java 17+
-Maven
-Apache Tomcat 10
+Java 17+<br>
+Maven<br>
+Apache Tomcat 10<br>
 
 
 Budowanie
 
-mvn package
+mvn package<br>
 
 Wdrożenie na Tomcat (Linux)
 
-sudo cp target/todo-app.war /var/lib/tomcat10/webapps/
+sudo cp target/todo-app.war /var/lib/tomcat10/webapps/<br>
 sudo systemctl restart tomcat10
 
 Adres aplikacji

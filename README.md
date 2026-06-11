@@ -43,6 +43,6 @@ Opis klas
 
 Task.java - klasa modelowa reprezentująca pojedyncze zadanie (id, title, done).
 
-TaskManager.java — przechowuje listę zadań w pamięci (ArrayList). Udostępnia metody: addTask(), deleteTask(), toggleTask(), getAllTasks().
+TaskManager.java - przechowuje listę zadań w pamięci (ArrayList). Udostępnia metody: addTask(), deleteTask(), toggleTask(), getAllTasks().
 
-TaskServlet.java — kontroler HTTP pod adresem /tasks. Obsługuje GET (wyświetlenie listy) oraz POST z akcjami: add, delete, toggle.
+TaskServlet.java - kontroler HTTP pod adresem /tasks. Obsługuje GET (wyświetlenie listy) oraz POST z akcjami: add, delete, toggle.

@@ -19,22 +19,6 @@ Apache Tomcat 10
 Maven
 
 
-Struktura projektu:
-
-todo-app/
-├── src/
-│   └── main/
-│       ├── java/
-│       │   └── com/todo/
-│       │       ├── Task.java           # Model zadania
-│       │       ├── TaskManager.java    # Logika biznesowa
-│       │       └── TaskServlet.java    # Kontroler HTTP
-│       └── webapp/
-│           ├── WEB-INF/
-│           │   └── web.xml
-│           └── index.jsp               # Widok (frontend)
-└── pom.xml
-
 Wymagania:
 
 Java 17+
